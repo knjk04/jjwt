@@ -140,7 +140,7 @@ If the documentation or the API JavaDoc isn't sufficient, and you either have us
 about something, please [ask your question here](https://stackoverflow.com/questions/ask?tags=jjwt&guided=false).
 
 After asking your question, you may wish to join our [Slack](https://jwtk.slack.com/messages/CBNACTN3A) or
-[Gittr](https://gitter.im/jwtk/jjwt) chat rooms, but note that they may not always be attended. You will usually
+[Gitter](https://gitter.im/jwtk/jjwt) chat rooms, but note that they may not always be attended. You will usually
 have a better chance of having your question answered by 
 [asking your question here](https://stackoverflow.com/questions/ask?tags=jjwt&guided=false).
    
